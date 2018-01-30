@@ -5,6 +5,9 @@ This project displays images of 6 actors from the movie "Space Balls".
 ---Change Log---
 +oldest to newest+
 
+--01/30/2018
+Davin; this is a test to see if GitHub Desktop uses signing
+
 --01/21/2018
 rost; added actor file; modified file to display pic, name and role
 rost; resolving conflicts
